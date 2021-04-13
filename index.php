@@ -7,8 +7,25 @@
     <title>Inicio</title>
 </head>
 <body>
-    <?php 
-        
-    ?>
+    <h1>
+        <table>
+            <!-- Fila 1 -->
+            <?php
+                for ($i=0; $i < 5; $i++) { 
+                    echo "<tr>";
+                    echo "<th>" . ($i+5) ."</th>";
+                    echo "<th>" . $i . "</th>";
+                    echo "</tr>";
+                }
+            ?>
+    </table>
+        <?PHP 
+            echo "Hola soy un script PHP 1";
+        ?>
+        <br>
+        <?PHP 
+            echo "Hola soy un script PHP 2";
+        ?>
+    </h1>
 </body>
 </html>

@@ -7,8 +7,8 @@
     <title>Clase 1</title>
 </head>
 <body>
-    <?php 
-        
+    <?PHP 
+        echo "Hola soy un script PHP 2"
     ?>
 </body>
 </html>
