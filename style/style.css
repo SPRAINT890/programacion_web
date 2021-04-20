@@ -1,0 +1,26 @@
+body{
+    background: #ebdfb1;
+}
+
+.borde{
+    border: 1px solid black;
+    background: cornsilk;
+}
+
+.container{
+    background: cornsilk;
+    margin-top: 100px;
+    padding: 20px;
+    width: 50%;
+    border: 1px solid black;
+}
+
+.tabla{
+    margin: auto;
+    padding: auto;
+    width: 50%;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 30px;
+    font-family: Arial;
+}
