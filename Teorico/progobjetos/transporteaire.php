@@ -1,5 +1,5 @@
 <?php
-    class Aire extends Transporte{
+    class TransporteAire extends Transporte{
         private $tipoFuselaje;
         private $trenAterrizaje;
         private $sensores;
