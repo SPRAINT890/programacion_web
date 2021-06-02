@@ -1,0 +1,33 @@
+//transportes no animal
+
+//clase Transporte
+    //largo
+    //ancho
+    //peso
+    //color
+    //capacidadCarga
+    //tipoCarga
+    //combustible ()
+    //recorrido
+    //medio (aire, tierra, agua)
+    //tipo (tierra: camioneta, agua: crucero, aire: avion)
+    //motor
+    //HP
+    //marca
+    //Modelo
+    //VelocidadMax
+    
+//clase TransporteTierra
+    // Ruedas
+    
+//clase TransporteAereo
+    //tipo de fuselaje    
+    //tren de aterrizaje (Ruedas - Flotadores)
+    //sensores ({1 altimetros - 2 barometros - 3 termicos ... etc} :: codiguera es cuando tiene un id cada elemento)
+
+        //clase Sensores
+            //Id (Denominacion/Nombre)(Habilitado/Activo)
+            //
+
+
+//dispositivos
