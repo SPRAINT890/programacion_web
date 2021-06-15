@@ -12,8 +12,6 @@
             $this->sensores         = $sensores;
         }
 
-
-
         public function getTipoFuselaje(){
                 return $this->tipoFuselaje;
         }

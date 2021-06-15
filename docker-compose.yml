@@ -9,7 +9,7 @@ services:
       ports:
         - 8080:80
       volumes:
-        - ./Teorico/progobjetos:/var/www/html
+        - ./Practico/practico 1:/var/www/html
       networks:
         - network
 
