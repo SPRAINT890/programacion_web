@@ -1,4 +1,4 @@
 <?php
-    const RUTA_RIAZ = "http://localhost:8080";
+    const RUTA_RIAZ = "http://localhost:8080/";
 
 ?>
